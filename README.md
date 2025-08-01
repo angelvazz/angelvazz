@@ -3,7 +3,7 @@
 
 <br>
 
-I'm a Full Stack Developer focused on transforming business requirements into high-impact, scalable solutions[cite: 5]. [cite_start]As a specialist in serverless architectures with **AWS** and **Terraform**, I enjoy building robust systems from the ground up.
+I'm a Full Stack Developer focused on transforming business requirements into high-impact, scalable solutions. As a specialist in serverless architectures with **AWS** and **Terraform**, I enjoy building robust systems from the ground up.
 
 My experience includes engineering a public-facing **Next.js** solution for over 10,000 users by implementing an on-demand page generation system in AWS to bypass build-time limitations.
 
