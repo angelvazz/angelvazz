@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Angel Vazquez
 ### Full Stack Developer | AWS Cloud & Serverless Specialist
 
@@ -41,7 +40,7 @@
 
 ### 📫 Get in Touch
 
-[cite_start]You can reach me at my email: **angel.mvazz94@gmail.com** [cite: 3]
+You can reach me at my email: **angel.mvazz94@gmail.com** 
 <!--
 **angelvazz/angelvazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
