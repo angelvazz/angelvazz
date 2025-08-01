@@ -13,7 +13,7 @@ My experience includes engineering a public-facing **Next.js** solution for over
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,html,css,nodejs,express,graphql,python,mongodb,aws,terraform,langchain,motoko" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,materialui,bootstrap, tailwind,nodejs,express,graphql,python,jest,dynamodb,mongodb,firebase,postman,aws,terraform,webpack,vite,git" />
   </a>
 </p>
 
