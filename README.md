@@ -3,9 +3,9 @@
 
 <br>
 
-[cite_start]I'm a Full Stack Developer focused on transforming business requirements into high-impact, scalable solutions[cite: 5]. [cite_start]As a specialist in serverless architectures with **AWS** and **Terraform**, I enjoy building robust systems from the ground up[cite: 6].
+I'm a Full Stack Developer focused on transforming business requirements into high-impact, scalable solutions[cite: 5]. [cite_start]As a specialist in serverless architectures with **AWS** and **Terraform**, I enjoy building robust systems from the ground up.
 
-[cite_start]My experience includes engineering a public-facing **Next.js** solution for over 10,000 users by implementing an on-demand page generation system in AWS to bypass build-time limitations[cite: 15].
+My experience includes engineering a public-facing **Next.js** solution for over 10,000 users by implementing an on-demand page generation system in AWS to bypass build-time limitations.
 
 ---
 
@@ -21,10 +21,10 @@
 
 ### 🚀 Experience Highlights
 
-- [cite_start]**Scalable Solutions Architect:** At AdvisoryCloud, I drove the full-stack implementation of new features on a serverless platform, significantly improving functionality for users[cite: 14].
-- [cite_start]**Advanced Rendering Expert:** To serve over 10,000 users, I engineered a Next.js system with on-demand page generation in AWS, ensuring efficient and fast content delivery[cite: 15].
-- [cite_start]**Real-Time Sync Engine:** I architected an event-driven calendar synchronization engine, enabling users to subscribe to multiple event feeds from Google & Apple at scale[cite: 16].
-- [cite_start]**Proactive DApp Monitoring:** At ORIGYN Foundation, I engineered a serverless monitoring pipeline on AWS with Lambda and Terraform to proactively prevent DApp service disruptions for hundreds of blockchain containers[cite: 20].
+- **Scalable Solutions Architect:** At AdvisoryCloud, I drove the full-stack implementation of new features on a serverless platform, significantly improving functionality for users.
+- **Advanced Rendering Expert:** To serve over 10,000 users, I engineered a Next.js system with on-demand page generation in AWS, ensuring efficient and fast content delivery.
+- **Real-Time Sync Engine:** I architected an event-driven calendar synchronization engine, enabling users to subscribe to multiple event feeds from Google & Apple at scale.
+- **Proactive DApp Monitoring:** At ORIGYN Foundation, I engineered a serverless monitoring pipeline on AWS with Lambda and Terraform to proactively prevent DApp service disruptions for hundreds of blockchain containers.
 
 ---
 
